@@ -6,13 +6,25 @@ I'm Alexandre, a computer science enthusiast. I love applying my tech skills to 
 cutting-edge technologies.
 
 - 🎓 Pursuing my third year in Computer Science (BUT Informatique).
-- 🧠 Learning 
 - 🌱 Currently diving deeper into TypeScript.
 - 👯 Open to collaborative projects and opportunities in Javascript/Typescript, about almost anything.
 
 ## Working on ⚙️
+## Working on ⚙️
 
-- Portfolio :   ![TypeScript](https://img.shields.io/badge/-TypeScript-2B2A4C?style=flat&logo=typescript)  ![Angular](https://img.shields.io/badge/-Angular-4FC08D?style=flat&logo=angular)
+- **Portfolio**: Developing a personal portfolio showcasing my projects and skills.
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-2B2A4C?style=flat&logo=typescript)
+  ![Angular](https://img.shields.io/badge/-Angular-4FC08D?style=flat&logo=angular)
+
+- **Discord Bot**: Creating a Discord bot to enhance server functionality and user interaction, utilizing Discord.js for seamless integration.
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-2B2A4C?style=flat&logo=typescript)
+  ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=discord)
+
+- **Private Company Project**: Contributing to a Node.js-based project, focusing on backend development and server management.
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+  ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=pm2)
+ 
 
 
 
