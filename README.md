@@ -10,7 +10,6 @@ cutting-edge technologies.
 - 👯 Open to collaborative projects and opportunities in Javascript/Typescript, about almost anything.
 
 ## Working on ⚙️
-## Working on ⚙️
 
 - **Portfolio**: Developing a personal portfolio showcasing my projects and skills.
   ![TypeScript](https://img.shields.io/badge/-TypeScript-2B2A4C?style=flat&logo=typescript)
