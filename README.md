@@ -1,11 +1,10 @@
-# Hello, I'm Alexandre 👋
+# Hello 👋
 
 ## About Me 🙋‍♂️
 
-I'm Alexandre, a computer science enthusiast. I love applying my tech skills to solve real-world problems and exploring
+A computer science enthusiast. I love applying my tech skills to solve real-world problems and exploring
 cutting-edge technologies.
 
-- 🎓 Pursuing my third year in Computer Science (BUT Informatique).
 - 🌱 Currently diving deeper into TypeScript.
 - 👯 Open to collaborative projects and opportunities in Javascript/Typescript, about almost anything.
 
